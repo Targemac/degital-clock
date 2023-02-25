@@ -1,4 +1,4 @@
-# Digital Calculator
+# Digital Clock
 
 ![](./Screenshot%20(18).png)
 
